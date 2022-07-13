@@ -30,7 +30,7 @@ if(isset($message)){
                 <li><a href="orders.php">Orders</a></li>
                 <li><a href="#">Account +</a>
                     <ul>
-                        <li><a href="login.php">Login</a></li>
+                        <li><a href="index.php">Login</a></li>
                         <li><a href="register.php">Register</a></li>
                     </ul>
                 </li>

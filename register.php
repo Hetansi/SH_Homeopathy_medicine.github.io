@@ -23,7 +23,7 @@ if(isset($_POST['submit'])){
       }else{
          mysqli_query($conn, "INSERT INTO `users`(name, email, password) VALUES('$name', '$email', '$pass')") or die('query failed');
          $message[] = 'registered successfully!';
-         header('location:login.php');
+         header('location:index.php');
       }
    }
 
