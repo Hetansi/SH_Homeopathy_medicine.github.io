@@ -41,7 +41,7 @@ if(!isset($user_id)){
     <div class="flex">
 
         <div class="image">
-            <img src="images/img_1.jpg" alt="">
+            <img src="images/i1.jpg" alt="">
         </div>
 
         <div class="content">
@@ -61,7 +61,7 @@ if(!isset($user_id)){
         </div>
 
         <div class="image">
-            <img src="images/img_5.jpg" alt="">
+            <img src="images/i3.jpg" alt="">
         </div>
 
     </div>
@@ -69,7 +69,7 @@ if(!isset($user_id)){
     <div class="flex">
 
         <div class="image">
-            <img src="images/img_4.jpg" alt="">
+            <img src="images/i4.jpg" alt="">
         </div>
 
         <div class="content">

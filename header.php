@@ -15,7 +15,7 @@ if(isset($message)){
 
     <div class="flex">
 
-        <a href="home.php" class="logo">SH Homeopathy.</a>
+        <a href="home.php" class="logo">SH Homeopathy</a>
 
         <nav class="navbar">
             <ul>

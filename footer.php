@@ -37,7 +37,7 @@
     </div>
 
     <div class="credit">
-         Mini project by: Hetansi Patel & Shaily Shah
+        Self made mini project by: Hetansi Patel & Shaily Shah
     </span> </div>
 
 </section>

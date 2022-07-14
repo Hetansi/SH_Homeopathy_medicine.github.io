@@ -83,8 +83,8 @@ if(isset($_POST['add_to_cart'])){
 
    <div class="content">
       
-      <h3>EVERY PATIENT IS A DOCTOR AFTER HIS OWN CURE </h3>
-      <img src="home-bg.jpg" alt="img" class="img" width="1000px" height="400">
+      <h3>"EVERY PATIENT IS A DOCTOR AFTER HIS OWN CURE" </h3>
+      
       
    </div> 
 
@@ -92,7 +92,7 @@ if(isset($_POST['add_to_cart'])){
 
 <section class="products">
 
-   <h1 class="title">Latest products</h1>
+   <h1 class="title">Homeopathic Medicines</h1>
 
    <div class="box-container">
 
